@@ -1,0 +1,5 @@
+{
+  "name": "Tạo ảnh đồng nhất",
+  "description": "Một ứng dụng web để tạo ra hình ảnh nhân vật đồng nhất bằng AI, cho phép người dùng kết hợp các nhân vật tham chiếu và bối cảnh để tạo ra một cảnh mới mạch lạc.",
+  "requestFramePermissions": []
+}
